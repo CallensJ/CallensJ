@@ -1,3 +1,39 @@
+# Hi, I'm Johan Callens 👋
+### Développeur Web & Concepteur d'Applications · Gard, France
+ 
+> *"Understand the foundations before reaching for the framework."*  
+> JS vanilla first always.
+ 
+Diplômé **Développeur web et  mobile**, **Concepteur développeur d'applications ** · Certifié **Opquast** · Méthodologie **Agile** · Pratiques **DevOps**  
+Fondateur de **[JohanWebStudio](https://johanwebstudio.fr)** — studio web indépendant pour TPE, artisans et commerçants du Gard.  
+En apprentissage continu : **Python** en cours.
+
+## tack technique
+ 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0EA5E9?style=flat&logo=tailwindcss&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-EF0C8D?style=flat&logo=framer&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat&logo=greensock&logoColor=black)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+ 
+## Projets
+ 
+| Projet | Description | Stack | Lien |
+|--------|-------------|-------|------|
+| **JohanWebStudio** | Studio web pour TPE/artisans — sites web, SEO, design | Next.js, Tailwind, Framer Motion | [johanwebstudio.fr](https://johanwebstudio.fr) |
+| **Erudia** | Web app éducative bilingue pour enfants 6–11 ans | Next.js, Stripe, Auth | [erudia.app](https://erudia.app/fr) |
+| **Kidoplan** | PWA organisateur de tâches hebdomadaires pour enfants | Vue.js, Supabase | [kidoplan.vercel.app](https://kidoplan.vercel.app) |
+| **Soficraft** | Site immersif pour créatrice de bijoux — portfolio | Next.js, GSAP, Sass | [soficraft.vercel.app](https://soficraft.vercel.app) |
+
 # ============================================================
 # README — webcraftstudio (johanwebstudio)
 # ============================================================
