@@ -1,4 +1,4 @@
-# Hi, I'm Johan Callens 👋
+# Hi, I'm Johan 👋
 ### Développeur Web & Concepteur d'Applications · Gard, France
  
 > *"Understand the foundations before reaching for the framework."*  
